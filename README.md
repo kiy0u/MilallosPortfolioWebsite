@@ -1,3 +1,4 @@
-README IS UNDER CONSTRUCTION
+## Rizzi's Website Portfolio 
 
-give me some time please :,) 
+This website is meant to demonstrate my basic knowledge in HTML and CSS, and to showcase 
+some of the skills I have picked up during my time at Eastern Washington University. 
